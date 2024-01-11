@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jodavila
 - 👀 I’m interested in back-end development and laravel
-- 🌱 I’m currently learning new features of laravel 8
+- 🌱 I’m currently learning python
 - 📫 To reach me, mail me joanaoldavila@gmail.com
 
 <!---
