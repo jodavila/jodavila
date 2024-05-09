@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jodavila
 - 👀 I’m interested in back-end development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java
 - 📫 To reach me, mail me joanaoldavila@gmail.com
 
 <!---
