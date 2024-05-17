@@ -4,6 +4,6 @@
 - 📫 To reach me, mail me joanaoldavila@gmail.com
 
 <!---
-jodavila/jodavila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jodavila/jodavila is a ✨ beautiful ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
