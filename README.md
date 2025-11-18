@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jodavila
 - 👀 I’m interested in back-end development
-- 🌱 I’m currently learning and working with C#/.NET
+- 🌱 I’m currently learning Angular and working with C#/.NET
 
 <!---
 - 📫 To reach me, mail me joanaoldavila@gmail.com
